@@ -18,4 +18,4 @@ async def math(ctx,arg):
     result = eval(arg)
     await ctx.send(result)
 
-bot.run('NzIxMTgzNzY5MTI1NTg0OTI5.Xu8gog.BTtUDKyn8mw1BdPjKzgIG8bpwkI')
+bot.run('TOKEN')
